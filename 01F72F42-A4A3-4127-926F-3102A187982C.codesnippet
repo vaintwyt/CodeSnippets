@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-closure-typealias</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    typealias &lt;#ClosureType#&gt; = (&lt;#param#&gt;: &lt;#Type#&gt;) -&gt; &lt;#ReturnType#&gt;
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>01F72F42-A4A3-4127-926F-3102A187982C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Declare a closure as a type alias</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift-closure-typealias</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

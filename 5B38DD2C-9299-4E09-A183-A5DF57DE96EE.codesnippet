@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-override-get-set</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    override var &lt;#variable name#&gt;: &lt;#Type#&gt;? {
+        get {
+            return super.&lt;#variable name#&gt;
+        }
+        set {
+            super.&lt;#variable name#&gt; = newValue
+        }
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5B38DD2C-9299-4E09-A183-A5DF57DE96EE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>swift-override-get-set</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift-override-get-set</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

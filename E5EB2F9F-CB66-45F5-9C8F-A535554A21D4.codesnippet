@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-notifi</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    NotificationCenter.default.addObserver(self, selector: #selector(&lt;#funcName#&gt;(_:)), name: NSNotification.Name.&lt;#name#&gt;, object: nil)
+    
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E5EB2F9F-CB66-45F5-9C8F-A535554A21D4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>swift-notifi</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift-notifi</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
